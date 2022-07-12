@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>My Demo App: success!</title>
+    <title>My-DemoApp: success!</title>
 </head>
 <body style="text-align: center">
 <h1>Congratulations!</h1>
